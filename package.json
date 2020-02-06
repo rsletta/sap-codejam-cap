@@ -1,0 +1,38 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "<Add your repository here>",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/cds": "^3",
+    "express": "^4",
+    "hdb": "^0.17.1",
+    "mbt": "^1.0.9"
+  },
+  "scripts": {
+    "start": "npx cds run",
+    "build:mta": "cds build/all && mbt build -p=cf"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "model": [
+          "db/",
+          "srv/",
+          "app/"
+        ],
+        "[production]": {
+          "kind": "hana"
+        },
+        "credentials": {
+          "database": "bookshop.db"
+        }
+      }
+    }
+  },
+  "devDependencies": {
+    "sqlite3": "^4.1.1"
+  }
+}

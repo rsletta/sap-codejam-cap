@@ -1,0 +1,976 @@
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:19:40 UTC 2020] Created app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:19:40 UTC 2020] Updated app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 ({"route"=>"9dea71d7-49d7-4080-9a89-5f4c0b728fcd", :verb=>"add", :relation=>"routes", :related_guid=>"9dea71d7-49d7-4080-9a89-5f4c0b728fcd"}) (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:19:41 UTC 2020] Updated app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:19:43 UTC 2020] Updated app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:19:44 UTC 2020] Uploading app package for app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:19:59 UTC 2020] Updated app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 ({"instances"=>1}) (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:00 UTC 2020] Creating build for app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:00 UTC 2020] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:00 UTC 2020] Downloading r_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:00 UTC 2020] Downloading ruby_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:00 UTC 2020] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.146#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:00 UTC 2020] Downloading sap_java_buildpack_1_19... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading dotnet_core_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded ruby_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded dotnet_core_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading sap_java_buildpack_1_20... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading sap_java_buildpack_1_21... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded sap_java_buildpack_1_20 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded sap_java_buildpack_1_21 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.147#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded r_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:01 UTC 2020] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:09.148#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-26###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:06 UTC 2020] Downloaded sap_java_buildpack_1_19 (290.8M) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:14 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e creating container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:14 UTC 2020] Downloaded python_buildpack (624.4M) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e successfully created container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.744#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e destroying container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.745#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e stopping instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:19.745#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:20:19.745#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e successfully destroyed container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:14 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e creating container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:14 UTC 2020] Downloaded python_buildpack (624.4M) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e successfully created container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e destroying container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e stopping instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e successfully destroyed container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:21 UTC 2020] Creating build for app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:29.209#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading ruby_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack_1_19... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading r_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded r_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack_1_19 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded ruby_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading dotnet_core_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded python_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.210#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack_1_21... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded dotnet_core_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack_1_20... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack_1_21 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack_1_20 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 creating container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.211#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:23 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 successfully created container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:23 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:23 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 destroying container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 stopping instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:26 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 successfully destroyed container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:29.212#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-12###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:26 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:20:39.374#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:14 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e creating container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.374#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:14 UTC 2020] Downloaded python_buildpack (624.4M) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.374#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e successfully created container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:15 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e destroying container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e stopping instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:17 UTC 2020] Cell c3ab5da3-50bb-4a82-9796-f3a27457810e successfully destroyed container for instance 3fad7cdb-04b6-4b86-87b9-e51129d085d7 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:21 UTC 2020] Creating build for app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading ruby_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack_1_19... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading r_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.375#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded r_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack_1_19 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded ruby_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading dotnet_core_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded python_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack_1_21... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded dotnet_core_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading sap_java_buildpack_1_20... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.376#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack_1_21 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded sap_java_buildpack_1_20 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 creating container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:22 UTC 2020] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:23 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 successfully created container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:23 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:23 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 destroying container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:25 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 stopping instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:26 UTC 2020] Cell 9f1825c5-a0ae-4250-aca7-e020650a1084 successfully destroyed container for instance 587362a1-534b-4062-a46e-992f25801d57 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.377#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:26 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:31 UTC 2020] Creating build for app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 (STDOUT, API)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading sap_java_buildpack_1_21... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading r_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading sap_java_buildpack_1_19... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading sap_java_buildpack_1_20... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded python_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading ruby_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded r_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded sap_java_buildpack_1_19 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded sap_java_buildpack_1_21 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.378#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading dotnet_core_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded sap_java_buildpack_1_20 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded dotnet_core_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:32 UTC 2020] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:36 UTC 2020] Downloaded nodejs_buildpack (186.5M) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:38 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc creating container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:39.379#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:38 UTC 2020] Downloaded ruby_buildpack (345.9M) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.286#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:38 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc creating container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.286#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:39 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc successfully created container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:39 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:39 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc destroying container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc stopping instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:20:50.287#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-22###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:42 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc successfully destroyed container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:38 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc creating container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:39 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc successfully created container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:39 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:39 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc destroying container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc stopping instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.232#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:41 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:42 UTC 2020] Cell 1eb9995c-96dc-4100-88c6-aa4435b6fbcc successfully destroyed container for instance 59d8a26c-143c-4353-9e6e-21272dcb1515 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:54 UTC 2020] Creating build for app with guid 99b07f6e-49a4-427c-a696-27d2c3e82381 (STDOUT, API)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading sap_java_buildpack_1_20... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading sap_java_buildpack_1_21... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading r_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading sap_java_buildpack_1_19... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded sap_java_buildpack_1_20 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded python_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded sap_java_buildpack_1_21 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading ruby_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.233#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded sap_java_buildpack_1_19 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading dotnet_core_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded r_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded ruby_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded dotnet_core_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.234#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Cell 5a6f1187-849e-4659-b7df-b41f662c5afd creating container for instance db9072b9-a1e8-470b-8cde-0f0ed9ee7cb8 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:55 UTC 2020] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:56 UTC 2020] Cell 5a6f1187-849e-4659-b7df-b41f662c5afd successfully created container for instance db9072b9-a1e8-470b-8cde-0f0ed9ee7cb8 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:57 UTC 2020] Downloading app package... (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:57 UTC 2020] Downloaded app package (2.3K) (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:58 UTC 2020] None of the buildpacks detected a compatible application (STDERR, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:58 UTC 2020] Exit status 222 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:58 UTC 2020] Cell 5a6f1187-849e-4659-b7df-b41f662c5afd destroying container for instance db9072b9-a1e8-470b-8cde-0f0ed9ee7cb8 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:58 UTC 2020] Cell 5a6f1187-849e-4659-b7df-b41f662c5afd stopping instance db9072b9-a1e8-470b-8cde-0f0ed9ee7cb8 (STDOUT, STG)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:58 UTC 2020] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2020 02 05 20:21:09.235#Z#DEBUG#com.sap.cloud.lm.sl.xs2.a6701f2f-4854-11ea-bffa-eeee0a85fd96.bookshop-ui.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-11###
+[PollStageAppStatusExecution] [bookshop-ui] 99b07f6e-49a4-427c-a696-27d2c3e82381 [Wed Feb 05 20:20:59 UTC 2020] Cell 5a6f1187-849e-4659-b7df-b41f662c5afd successfully destroyed container for instance db9072b9-a1e8-470b-8cde-0f0ed9ee7cb8 (STDOUT, STG)#
+
